@@ -1,0 +1,12 @@
+.wall{
+    width: 100%;
+    height: 200px;
+}
+.avaDescription img{
+    width: 100px;
+    height: 100px;
+}
+
+.avaDescription{
+    padding: 10px;
+}
