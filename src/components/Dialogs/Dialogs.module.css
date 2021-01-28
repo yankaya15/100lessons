@@ -3,6 +3,16 @@
     grid-template-columns: 2fr 10fr;
 }
 
-.dialogsItems .active{
-    color: blue;
+.dialogsItems {
+    color: white;
+    padding: 10px;
+}
+
+.dialog {
+    text-decoration: none;
+    color: white;
+}
+
+.dialogs .active{
+    color: green;
 }
